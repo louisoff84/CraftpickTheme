@@ -1,0 +1,12 @@
+{
+  "id": "craftpick",
+  "name": "Craftpick",
+  "version": "1.0.0",
+  "description": "Theme gaming premium pour Azuriom avec accueil hero, configuration simple et styles personnalises.",
+  "url": "https://azuriom.com",
+  "authors": [
+    "Craftpick",
+    "Louisoff84"
+  ],
+  "azuriom_api": "1.2.0"
+}
